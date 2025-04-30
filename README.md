@@ -4,7 +4,7 @@ Proyek ini adalah aplikasi web front-end untuk layanan pelanggan dari produk bot
 
 ## Demo
 
-![Screenshot website](/Frontend/images/tampilan_depan.png)
+![Screenshot website](/tampilan_depan.png)
 
 ## Fitur Utama
 
